@@ -1,4 +1,4 @@
-### Hi there 👋
+### Hi there 
 
 <!--Update tencent.yml
 **Valecia2023/Valecia2023** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.jpterm.py
